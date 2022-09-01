@@ -1,3 +1,5 @@
+[作者搭建的网站](https://m2t.lolicon.app/)
+
 # magnet2torrent
 
 This module uses [torrent-stream](https://www.npmjs.com/package/torrent-stream) to download metadata of magnet links only, without creating any temp file.
